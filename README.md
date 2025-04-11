@@ -1,7 +1,7 @@
 # Organización de Carpetas:
 
 ## Ejercicios Para Entregar:
-- Excepciones 11/04 ---> [Ejercicios EXCEPCIONES](./2-Excepciones/practica.py)
+- Excepciones 11/04 ---> [Ejercicios EXCEPCIONES](./2-Excepciones/1_practica.py)
 
 
 --- 
